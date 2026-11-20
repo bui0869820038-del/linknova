@@ -1,0 +1,5 @@
+1. Cai Node.js LTS (https://nodejs.org), mo PowerShell moi.
+2. Copy file .env.example thanh .env (hoac doi ten _env cu thanh .env).
+3. Giu nguyen cac file linknova.sqlite, sessions.sqlite va thu muc uploads neu da co; dat chung canh server.js.
+4. npm install
+5. npm start  ->  mo http://localhost:3000
